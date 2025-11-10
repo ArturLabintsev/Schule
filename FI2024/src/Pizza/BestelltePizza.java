@@ -27,5 +27,5 @@ public class BestelltePizza
 		{
 	        return String.format("%s, %s, %s - %.2f €", pizza.getName(), grosse.getName(), extra.getName(), getPreis());
 	    }
-}
+}/*Sgfv*/
 
